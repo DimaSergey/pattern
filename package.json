@@ -1,8 +1,8 @@
 {
-  "name": "learn-bootstrap-4",
+  "name": "Dima's and Sergey's pattern",
   "version": "1.0.0",
-  "description": "Learn Bootstrap 4 - brainscloud.ru",
-  "author": "Dmitry Valak - brainscloud.ru",
+  "description": "...",
+  "author": "...",
   "devDependencies": {
     "browser-sync": "^2.18.2",
     "gulp": "^3.9.1",

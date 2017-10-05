@@ -1,7 +1,7 @@
 {
-  "name": "Dima and Sergey pattern",
+  "name": "Dima's and Sergey's pattern",
   "description": "Pattern",
-  "author": "Dima Lukashov, Sergey Pilipenko",
+  "author": "Dima and Sergey",
   "devDependencies": {
     "bootstrap": "4.0.0-beta"
   }
