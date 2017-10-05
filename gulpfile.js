@@ -24,24 +24,24 @@ var gulp = require("gulp"),
 var path = {
     build: {
         html: "build/",
-        js: "build/assets/js/",
-        css: "build/assets/css/",
-        img: "build/assets/i/",
-        fonts: "build/assets/fonts/"
+        js: "build/scripts/",
+        css: "build/styles/",
+        img: "build/img/",
+        fonts: "build/fonts/"
     },
     src: {
         html: "src/*.{htm,html}",
-        js: "src/assets/js/*.js",
-        css: "src/assets/sass/style.scss",
-        img: "src/assets/i/**/*.*",
-        fonts: "src/assets/fonts/**/*.*"
+        js: "src/scripts/*.js",
+        css: "src/styles/*.scss",
+        img: "src/img/*.*",
+        fonts: "src/fonts/**/*.*"
     },
     watch: {
-        html: "src/**/*.{htm,html}",
-        js: "src/assets/js/**/*.js",
-        css: "src/assets/sass/**/*.scss",
-        img: "src/assets/i/**/*.*",
-        fonts: "src/assets/fonts/**/*.*"
+        html: "src/*.{htm,html}",
+        js: "src/scripts/*.js",
+        css: "src/styles/*.scss",
+        img: "src/img/*.*",
+        fonts: "src/fonts/**/*.*"
     },
     clean: "./build"
 };
